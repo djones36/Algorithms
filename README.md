@@ -1,5 +1,3 @@
-new branch
-
 # Algorithms
 
 Each directory contains a separate problem that you'll be tasked with solving.
@@ -12,7 +10,7 @@ something like this:
 
 1.  `stock_prices`
 2.  `recipe_batches`
-3.  `eating_cookies`
+3.  `eating_cookies` x
 4.  `rock_paper_scissors`
 5.  `making_change`
 6.  [Stretch Problem] `knapsack`
